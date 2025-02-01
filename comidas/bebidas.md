@@ -24,3 +24,20 @@ Té Helado con Miel y Limón 🍋
 
 1. Hervir el agua y agregar el té.
 2. Dejar enfriar, añadir miel y limón.
+
+
+Limonada de Coco
+
+📌 Ingredientes:
+
+- 2 limones
+- 1 taza de agua de coco
+- ½ taza de leche de coco
+- Azúcar al gusto
+- Hielo
+
+📌 Preparación:
+
+1. Exprimir los limones y mezclar el jugo con el agua y la leche de coco.
+2. Endulzar con azúcar al gusto.
+3. Servir con hielo y disfrutar bien fría.
