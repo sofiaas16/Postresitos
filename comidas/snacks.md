@@ -29,3 +29,16 @@ Guacamole con Nachos 🥑
 
 1. Machacar el aguacate y mezclar con los demás ingredientes.
 2. Servir con nachos.
+
+
+Rollitos de Queso y Jamón 🧀
+
+📌 Ingredientes:
+
+- 4 tortillas de harina
+- 4 lonchas de jamón
+- 4 lonchas de queso
+📌 Preparación:
+
+1. Colocar una loncha de queso y jamón en cada tortilla.
+2. Enrollar y calentar en una sartén.
