@@ -14,3 +14,18 @@ Palomitas de Caramelo
 3. Cocinar hasta que la mezcla tome color caramelo.
 4. Verter sobre las palomitas y mezclar bien.
 5. Dejar enfriar y disfrutar.
+
+Guacamole con Nachos 🥑
+
+📌 Ingredientes:
+
+- 2 aguacates
+- 1 tomate picado
+- ½ cebolla picada
+- Jugo de ½ limón
+- Sal al gusto
+
+📌 Preparación:
+
+1. Machacar el aguacate y mezclar con los demás ingredientes.
+2. Servir con nachos.
