@@ -28,3 +28,22 @@ Lasaña de Carne 🍝
 1. Cocinar las pechugas en una sartén con aceite.
 2. Sofreír la cebolla y los champiñones, agregar la crema de leche.
 3. Verter la salsa sobre las pechugas y servir.
+
+
+Sudado de Pollo 🍗
+📌 Ingredientes:
+
+- 2 presas de pollo
+- 3 papas peladas y cortadas
+- 1 tomate y 1 cebolla picados
+- 2 tazas de caldo de pollo
+- 1 zanahoria en rodajas
+- Cilantro al gusto
+
+📌 Preparación:
+
+1. Sofreír el tomate y la cebolla en una olla.
+2. Agregar el pollo y dorar por unos minutos.
+3. Añadir el caldo de pollo, las papas y la zanahoria.
+4. Cocinar a fuego medio hasta que todo esté tierno.
+5. Servir con arroz y espolvorear con cilantro.
